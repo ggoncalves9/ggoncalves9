@@ -1,6 +1,7 @@
-### Fale galera, me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
+### Fala galera! Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
 
-> Atualmente trabalho com as ferramentas abaixo, voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo. Qualquer ideia legal,me chamem no Linkedin! Abraços.
+> Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo.
+> Qualquer ideia legal,me chamem no Linkedin! Abraços.
 
 ---
 
