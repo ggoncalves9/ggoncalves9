@@ -1,13 +1,8 @@
-## Olá galera!👋
+### Fale galera, me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
 
- Me chamo Guilherme e seja bem-vindo ao meu perfil no GitHub! 
+> Atualmente trabalho com as ferramentas abaixo, voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo. Qualquer ideia legal,me chamem no Linkedin! Abraços.
 
-<!--
-**DevOps** e estudando **AI** para **Segurança da Informação** em 2025. 
--->
-
-## **Cloud** &   **DevOps**
-
+---
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
