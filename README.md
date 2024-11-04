@@ -16,56 +16,48 @@ Here are some ideas to get you started:
 -->
 
 
-Bem-vindo ao meu perfil no GitHub! Sou um profissional apaixonado por tecnologia, com forte experiência em **nuvem**, **DevOps** e estudando **AI** & **segurança da informação**. Neste repositório, você encontrará projetos e estudos que refletem meu conhecimento e habilidades.
+Bem-vindo ao meu perfil no GitHub! Sou um profissional apaixonado por tecnologia, com experiência em **nuvem**, **DevOps** e estudando **AI** para **Segurança da Informação** em 2025. Neste repositório, você encontrará projetos e estudos que refletem meu conhecimento e habilidades.
 
 ## Tecnologias
 
 ### Nuvem
-- **Amazon Web Services (AWS)**: 
-  - AWS CloudFormation
-  - AWS Security
-  - AWS Identity and Access Management (IAM)
-  - AWS CodePipeline
-  - AWS Elastic Beanstalk
-  - Interface da Linha de Comando (ILC) da AWS
+- **Amazon Web Services (AWS)**; 
+- **MS Azure** & **Azure DevOps**;
+- **Google Cloud Platform (GCP)** 
 
 - **Microsoft Azure** e **Google Cloud Platform (GCP)**
 
 ### DevOps
-- **Versionamento de Código**: GitHub, GitHub Actions
+- **Versionamento de Código**: GitHub, Azure Repos , GitLab
 - **Containerização**: Docker, Kubernetes
+- **Pipelines CI/CD**: GitHub Actions Azure Pipeline , Cloud Build
 - **Infraestrutura como Código**: Terraform
-- **Ambiente Linux**
+- **OS**: Linux + scripts
 
 ## Segurança da Informação
 
 Atualmente, estou me aprofundando em:
 
-- **DevSecOps**
-- **Cibersegurança**
-- **Red Team** e **Blue Team**
-- **Penetration Testing (Pen Test)**
-- **Application Security (App Sec)**
-- **Computer Security Incident Response Team (CSIRT)**
-- **Inteligência de Ameaças Cibernéticas (CTI)**
+- **AI** para **DevSecOps**
 - **Modelagem de Ameaças**
-- **Open Source Intelligence (OSINT)**
+- **OWASP Top 10**
 - **Interactive Application Security Testing (IAST)**
 - **Dynamic Application Security Testing (DAST)**
 
+<!--
 ## Projetos em Destaque
 
 - [Nome do Projeto 1](link-do-projeto): Descrição do projeto.
 - [Nome do Projeto 2](link-do-projeto): Descrição do projeto.
 - [Nome do Projeto 3](link-do-projeto): Descrição do projeto.
-
+-->
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo através de [seu email](mailto:seuemail@exemplo.com) ou [LinkedIn](link-do-linkedin).
+Sinta-se à vontade para entrar em contato comigo através de [seu email](mailto:ggoncalves.it@gmail.com) ou [LinkedIn](www.linkedin.com/in/ggoncalves9).
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado por mim. (y)
 
 ---
 
