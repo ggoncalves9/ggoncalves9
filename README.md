@@ -1,13 +1,4 @@
-### Fala galera! 
-
-Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
-
-> Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo.
-> Qualquer ideia legal,me chamem no Linkedin! Abraços.
-         
----
-
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
     <a href="https://azure.status.microsoft/pt-br/status" target="_blank" rel="noopener noreferrer">
@@ -30,7 +21,7 @@ Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub!
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/10168be8c47c2c5b1d841f894ddc7b32de4560931957037a5abfd96268a96b2d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" alt="Docker" width="40" height="40"/>
   </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer">
+   <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
       <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
@@ -44,10 +35,12 @@ Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub!
 </p>
 
 
-<!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/seudominio)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
-[![Contato no Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoncalves.it@gmail.com)
+### Fala galera! 
 
+Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
+
+- Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo.
+- Me chemen no Linkedin pra projetos e ideias! Abraços.
 
 <!--
 Painel
@@ -55,5 +48,16 @@ Painel
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggoncalves9&show_icons=true&theme=vision-friendly-dark)](https://github.com/ggoncalves9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggoncalves9&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/ggoncalves9)
+---
+<!--
+Contato
+-->
 
-### <h1 align="center"> _______________________________________________________________________________________________ </h1>
+<!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/seudominio)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+[![Contato no Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoncalves.it@gmail.com)
+
+
+
+
+### <h1 align="center"> __________________________________________________________________________________ </h1>
