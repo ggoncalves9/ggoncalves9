@@ -45,3 +45,11 @@
 <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/seudominio)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
 [![Contato no Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoncalves.it@gmail.com)
+
+
+<!--
+Painel
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggoncalves9&show_icons=true&theme=vision-friendly-dark)](https://github.com/ggoncalves9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggoncalves9&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/ggoncalves9)
