@@ -84,4 +84,4 @@ Contato
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-### <h1 align="center"> __________________________________________________________________________ </h1>
+### <h1 align="center"> ___________________________________________________________________ </h1>
