@@ -48,8 +48,12 @@ Tips: https://github.com/iuricode/readme-template/tree/main
 
 Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
 
-- Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps, porem sempre estou testando novas ferramentas e tecnicas por isso dependendo do mes você encontrara ferramentas distintas no Repo.
-- Me chemen no Linkedin pra projetos e ideias! Abraços.
+
+> [!NOTE]
+> Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps,
+> mas sempre estou testando novas tecnicas e ferramentas.
+> Dependendo do mes você encontrara ferramentas distintas no Repo.
+> Me chemen no Linkedin para projetos e ideias! Abraços.
 
 <!--
 Painel
@@ -63,10 +67,11 @@ Contato
 -->
 
 <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/seudominio)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggoncalves9)
 [![Contato no Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggoncalves.it@gmail.com)
+<a href="https://medium.com/@ggoncalves9" align="center">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-
-
-
-### <h1 align="center"> __________________________________________________________________________________ </h1>
+### <h1 align="center"> __________________________________________________________________________ </h1>
