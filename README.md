@@ -54,16 +54,8 @@ Dev
 </p>
 
 
-### Fala galera! 
-
-Me chamo Guilherme e sejam bem-vindos ao meu perfil no GitHub! 
-
-
 > [!NOTE]
-> Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps,
-> mas sempre estou testando novas tecnicas e ferramentas.
-> Dependendo do mes você encontrara ferramentas distintas no Repo.
-> Me chemen no Linkedin para projetos e ideias! Abraços.
+> Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps.
 
 <!--
 Painel
