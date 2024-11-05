@@ -32,15 +32,25 @@ Tips: https://github.com/iuricode/readme-template/tree/main
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   SysAdmin
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"Python" width="40" height="40"/>
-   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/83daa434b30e0c875824f10cdcecccd119c2518c2d5d518d6edd218af05b72e0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
+    <a href="https://nginx.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+Dev
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"Python" width="40" height="40"/>
+   </a>
+
+  <a href="https://www.crewai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/crewAIInc/crewAI/blob/main/docs/crewai_logo.png" width="73" height="45"/>
+   </a>
+
+  
 </p>
 
 
