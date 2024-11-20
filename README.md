@@ -53,14 +53,14 @@ Dev
   
 </p>
 
-
+<!--
 > [!NOTE]
 > Atualmente trabalho com as ferramentas voltadas a Cloud e DevOps.
 
-<!--
+
 Painel
--->
-<!--
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggoncalves9&show_icons=true&theme=vision-friendly-dark)](https://github.com/ggoncalves9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggoncalves9&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/ggoncalves9)
