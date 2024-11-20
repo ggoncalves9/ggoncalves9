@@ -78,5 +78,3 @@ Contato
 <a href="https://medium.com/@ggoncalves9" align="center">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
-### <h1 align="center"> ___________________________________________________________________ </h1>
